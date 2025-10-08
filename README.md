@@ -1,6 +1,6 @@
 # 🌐 LiveLab: Build a Website for Nomadiq
 
-### 📚 [Resource | Common Questions with GitHub, Codespaces, & Copilot](https://docs.google.com/document/d/1ySnBwPJfkL3npNkg2h29nK2Lxrr7OKkdkZOkDY_UqpA/edit?usp=sharing)
+### 📚 [Quick Guide | GitHub, Codespaces, & Copilot](https://docs.google.com/document/d/1ySnBwPJfkL3npNkg2h29nK2Lxrr7OKkdkZOkDY_UqpA/edit?usp=sharing)
 
 
 In this lab, you’ll build a responsive website while exploring how AI-assisted tools (Copilot & ChatGPT) can help with layout, design choices, and accessibility—**all while learning to build a site from scratch.** How cool is that?!
@@ -56,7 +56,6 @@ In this lab, you’ll build a responsive website while exploring how AI-assisted
 | Task          | Snippet |
 |---------------|---------|
 | **Media Queries** | `@media (max-width: 768px) { /* styles */ }` |
-| **Flexbox**   | `display: flex; justify-content: space-between;` |
 | **Google Fonts** | `<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet" />` |
 | **Hover Effects** | `.card:hover { transform: scale(1.05); transition: 0.3s; }` |
 
