@@ -1,12 +1,18 @@
-# 🌐 LiveLab: Responsive Website
+# 🌐 LiveLab: Build a Website for Nomadiq
 
-In this lab, you’ll build a responsive website while exploring how AI-assisted tools (Copilot & ChatGPT) can help with layout, design choices, and accessibility.  
+In this lab, you’ll build a responsive website while exploring how AI-assisted tools (Copilot & ChatGPT) can help with layout, design choices, and accessibility—**all while learning to build a site from scratch.** How cool is that?!
 
-You’ll create a **travel-themed site** for *Nomadiq Travel Destinations*. You should primarily:  
-- **Work in GitHub Codespaces with Copilot** – this is your main environment for saving code in a repo and expanding your project.  
+> **🌴 About Nomadiq:** *Nomadiq Travel Destinations* is a travel company passionate about **sustainability**—helping people explore the world while protecting it.
 
-You also have the option to:  
-- **Work in ChatGPT (Canvas)** – prompt, preview, and edit code directly. If you choose this route, you can later copy your code into **Codespaces** to save it to a repo and continue building with Copilot.  
+
+
+## 🚀 Where to Build
+
+**Primary (recommended):**
+- **GitHub Codespaces + Copilot** — your main environment for coding, saving to a repo, and growing your project with AI help.
+
+**Optional:**
+- **ChatGPT (Canvas)** — prompt, preview, and edit code here first if you’d like.  When you’re ready, **copy your files into Codespaces** to commit them to a repo and keep building with Copilot.
 
 ---
 
@@ -54,18 +60,28 @@ You also have the option to:
 
 
 
-## 🎨 Design Inspiration  
-- [Google Fonts](https://fonts.google.com/)  
-- [Coolors](https://coolors.co/) – Color palettes  
-- [Dribbble](https://dribbble.com/) – Layout ideas  
-- [W3C Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) – Inclusive design  
+## 🎨 Design Inspiration
+
+- [Google Fonts](https://fonts.google.com/) – Explore font pairings  
+- [Coolors](https://coolors.co/) – Generate color palettes  
+- [Dribbble](https://dribbble.com/) – Layout and UI ideas  
+- [Unsplash](https://unsplash.com/) – Free, high-quality stock images  
+- [Pexels](https://www.pexels.com/) – Free stock photos & videos  
+- [Pixabay](https://pixabay.com/) – Free images, illustrations, and vectors  
+- [W3C Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) – Inclusive design principles 
 
 
 
 
-## 📤 We'd Love to See Your Hard Work!  
-At the end of lab, be ready to:  
-1. Share a link to your **Codespace or GitHub repo**  
-2. Reflect:  
-   - *Which AI tool did you use?*  
-   - *How did it help?*  
+## 📤 Sharing Your Work
+
+Publishing to **GitHub Pages** is **optional for today’s lab**, but it will be a **requirement for your next project**. Use this lab as a chance to practice and get comfortable with the workflow 🌐.  
+
+We’ll do a **step-by-step walkthrough** on how to publish your site using GitHub Pages so it’s live on the web.  
+
+You’ll then:  
+1. Post your **GitHub Pages link** in the designated thread.  
+2. Reflect briefly:  
+   - *Which AI tool(s) did you use?*  
+   - *How did it help your workflow or design?*  
+
