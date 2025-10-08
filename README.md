@@ -1,4 +1,4 @@
-# 🌐 LiveLab: Build a Landing Page for Nomadiq
+# 🌐 LiveLab: Build a Website for Nomadiq
 
 ### 📚 [Quick Guide | GitHub, Codespaces, & Copilot](https://docs.google.com/document/d/1ySnBwPJfkL3npNkg2h29nK2Lxrr7OKkdkZOkDY_UqpA/edit?usp=sharing)
 
