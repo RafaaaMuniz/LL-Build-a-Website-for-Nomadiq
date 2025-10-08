@@ -37,7 +37,8 @@ You also have the option to:
 - Make the webpage fully responsive, ensuring text and layouts smoothly scale from mobile to desktop screens. 
 
 **Prompt 7 – (Optional) Interactivity & Polish**  
-Enhance the header and hero section with subtle hover effects or transitions using simple CSS. Additionally, refine your typography by adjusting font sizes and spacing to boost readability.
+- Enhance the header and hero section with subtle hover effects or transitions using simple CSS. 
+- Refine your typography by adjusting font sizes and spacing to boost readability.
 
 
 
