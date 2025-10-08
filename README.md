@@ -1,5 +1,8 @@
 # 🌐 LiveLab: Build a Website for Nomadiq
 
+### 📚 [Resource | Common Questions with GitHub, Codespaces, & Copilot](https://docs.google.com/document/d/1ySnBwPJfkL3npNkg2h29nK2Lxrr7OKkdkZOkDY_UqpA/edit?usp=sharing)
+
+
 In this lab, you’ll build a responsive website while exploring how AI-assisted tools (Copilot & ChatGPT) can help with layout, design choices, and accessibility—**all while learning to build a site from scratch.** How cool is that?!
 
 > **🌴 About Nomadiq:** *Nomadiq Travel Destinations* is a travel company passionate about **sustainability**—helping people explore the world while protecting it.
@@ -78,10 +81,4 @@ In this lab, you’ll build a responsive website while exploring how AI-assisted
 Publishing to **GitHub Pages** is **optional for today’s lab**, but it will be a **requirement for your next project**. Use this lab as a chance to practice and get comfortable with the workflow 🌐.  
 
 We’ll do a **step-by-step walkthrough** on how to publish your site using GitHub Pages so it’s live on the web.  
-
-You’ll then:  
-1. Post your **GitHub Pages link** in the designated thread.  
-2. Reflect briefly:  
-   - *Which AI tool(s) did you use?*  
-   - *How did it help your workflow or design?*  
 
