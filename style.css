@@ -8,8 +8,29 @@ body{
     width: 500px; 
     height: auto;
     margin: 0%;
-    
   }
+  .my-class{
+    display:flex;
+    flex-wrap: wrap;
+    max-width: 600px;
+    margin: 50px ;
+    padding:25px;
+}
+
+  .my-class input[type = "radio"]{
+    display: none;
+  }
+  .myclass label{
+    padding:25px;
+  }
+  .my-class .tabs{
+    width: 100px;
+    padding:20px;
+    order: 1px;
+  }
+
+
+
     
 
 
