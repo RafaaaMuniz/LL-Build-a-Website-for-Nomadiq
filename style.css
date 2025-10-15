@@ -12,22 +12,33 @@ body{
   .my-class{
     display:flex;
     flex-wrap: wrap;
-    max-width: 600px;
+    width: 500px;
     margin: 50px ;
     padding:25px;
+    position:absolute;
+    left: 800px;
+    top: -55px;
 }
 
   .my-class input[type = "radio"]{
     display: none;
   }
-  .myclass label{
-    padding:25px;
+  .my-class label{
+    padding:30px;
   }
-  .my-class .tabs{
-    width: 100px;
-    padding:20px;
-    order: 1px;
+  .donate-butt input[type = "radio"]{
+    display:none;
   }
+  .donate-butt label{
+    background-color:aliceblue;
+    padding: 20px 100px;
+    border-radius: 50px;
+    position:absolute;
+    bottom:100px;
+    border: 3px solid yellow;
+  }
+   
+
 
 
 
