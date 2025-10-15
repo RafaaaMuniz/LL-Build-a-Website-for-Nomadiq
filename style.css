@@ -1,5 +1,6 @@
 body{
-    background-color: #77A8BB;
+    background-color: #ffc907;
+    border:10px solid #003366;
   }
   .logo{
     position: absolute;
@@ -16,8 +17,9 @@ body{
     margin: 50px ;
     padding:25px;
     position:absolute;
-    left: 800px;
+    left: 1200px;
     top: -55px;
+    font:bolder 30px poppins;
 }
 
   .my-class input[type = "radio"]{
@@ -25,19 +27,32 @@ body{
   }
   .my-class label{
     padding:30px;
+  
   }
   .donate-butt input[type = "radio"]{
     display:none;
   }
   .donate-butt label{
-    background-color:aliceblue;
+    background-color: #ffc907;
     padding: 20px 100px;
-    border-radius: 50px;
-    position:absolute;
-    bottom:100px;
-    border: 3px solid yellow;
+    border-radius: 10px;
+    position:relative;
+    color:#003366;
+    margin-left: 400px;
+    top:-500px;
+
+    
   }
-   
+  .main-pic{
+    width: 100%;
+    margin-bottom:-107px;
+  }
+    
+
+          
+
+
+  
 
 
 
