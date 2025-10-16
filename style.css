@@ -20,6 +20,7 @@ body{
     left: 1200px;
     top: -55px;
     font:bolder 30px poppins;
+    color:#003366
 }
 
   .my-class input[type = "radio"]{
@@ -39,13 +40,77 @@ body{
     position:relative;
     color:#003366;
     margin-left: 400px;
-    top:-500px;
-
+    top:-470px;
+    transition: transform 0.5s ease-in-out;
+    display:inline-block;
+    
+  }
+  .donate-butt label:hover{
+    transform:rotate(360deg);
     
   }
   .main-pic{
     width: 100%;
-    margin-bottom:-107px;
+    margin-bottom:-682px;
+  }
+  .header{
+  color:#ffc907;
+  border-color: #003366;
+  font:bolder 35px poppins;
+  position:relative;
+  top: -800px;
+  left:550px;
+  transform: rotate3d(1,1,0,45deg);
+  text-shadow: -2px 0 #003366, 0 2px #003366, 2px 0 #003366, 0 -2px #003366;
+  }
+  .header2{
+    color:#ffc907;
+    text-shadow: -2px 0 #003366, 0 2px #003366, 2px 0 #003366, 0 -2px #003366;
+    font:bolder 25px poppins;
+    position:relative;
+    top: -820px;
+    left:350px;
+    transform: rotate3d(1,1,0,45deg);
+  }
+  .partnerships label{
+    font:bolder 40px poppins;
+    color:#003366;
+    background-color: #CBCCD1;
+    position:relative;
+    top:-75px;
+    left:25px;
+    border-radius: 25px;
+    padding: 10px 20px;
+    border:3px solid #003366;
+
+  }
+
+  .blackrock{
+    width: 200px;
+    position:relative;
+    top:500px;
+    left:650px;
+    border:2px solid black;
+    
+  }
+  .microsoft{
+    width: 200px;
+    position:relative;
+    top:419px;
+    left:900px;
+    border:2px solid black;
+
+  }
+  .images{
+    width: 200px;
+    position:relative;
+    top:220px;
+    left:400px;
+    border:2px solid black;
+    
+  }
+  .partnerships input[type = "radio"]{
+    display:none;
   }
     
 
