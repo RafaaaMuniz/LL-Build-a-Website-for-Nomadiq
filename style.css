@@ -38,9 +38,11 @@ body{
     padding: 20px 100px;
     border-radius: 10px;
     position:relative;
+    font:bolder;
     color:#003366;
     margin-left: 400px;
     top:-470px;
+    border:3px solid #003366;
     transition: transform 0.5s ease-in-out;
     display:inline-block;
     
@@ -51,7 +53,7 @@ body{
   }
   .main-pic{
     width: 100%;
-    margin-bottom:-682px;
+    margin-bottom:-690px;
   }
   .header{
   color:#ffc907;
